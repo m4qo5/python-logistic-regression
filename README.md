@@ -1,5 +1,5 @@
 # Logistic-Regression-from-scratch
-Example of the Logistic Regression class, written from scratch.
+Example of the Logistic Regression class, written from scratch using Gradient Descent algorithm.
 
 
 ## This is a training example which could help understand more how logistic regression works.
