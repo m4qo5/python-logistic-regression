@@ -23,7 +23,7 @@ class LogisticRegression:
     def _sigmoid(self, z):
         '''Defines our "logit" function based on which we make predictions
            parameters:
-              z - product of the out features with weights
+              z - product of the our features with weights
            return:
               probability of the attachment to class
         '''
