@@ -1,8 +1,7 @@
 # How to implement Logistic Regression in Python from scratch?
 Example of the Logistic Regression class, written from scratch using Gradient Descent algorithm.
 
-
-## This is a training example which could help understand more how logistic regression works.
+This is a training example which could help understand more how logistic regression works.
 
 ## Code
 ```python
